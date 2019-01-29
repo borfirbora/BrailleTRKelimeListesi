@@ -1,0 +1,22 @@
+﻿6	ba	.
+0	be	.
+!	bir
+2	bu	.
+?	da
+w	de
+&	di
+3	ha	.
+4	ka	.
+#	ki
+=	la
++	le
+/	ma
+x	na
+q	ne
+:	sa  
+>	se
+)	ta
+]	te
+5	ve
+$	ya
+(	ye
