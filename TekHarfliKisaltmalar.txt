@@ -26,3 +26,5 @@ u	uygun
 v	var
 y	yok
 z	zaman
+!	bir
+5	ve
